@@ -1,5 +1,5 @@
 ## About Me
-I'm Mehrbod Blade a developer with experience in:
+I'm Mehrbod Blade a programer with experience in:
 - **Python**
 - **CSS**
 - **HTML**
